@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "UFBLxlh/1DhVSTfGKQ+18O8pcPScB+RrYpmyewdVj9j66QT34F9a1rK2a/6Ovu18MG8o1ZUSigzVLHkjOLLb4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rlewi\\Documents\\GitHub\\GazeHelpServer\\GazeHelpServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rlewi\\.nuget\\packages\\adonisui\\1.16.0\\adonisui.1.16.0.nupkg.sha512",
+    "C:\\Users\\rlewi\\.nuget\\packages\\adonisui.classictheme\\1.16.0\\adonisui.classictheme.1.16.0.nupkg.sha512",
+    "C:\\Users\\rlewi\\.nuget\\packages\\fleck\\1.1.0\\fleck.1.1.0.nupkg.sha512",
+    "C:\\Users\\rlewi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\rlewi\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\rlewi\\.nuget\\packages\\system.collections.immutable\\5.0.0-rc.2.20475.5\\system.collections.immutable.5.0.0-rc.2.20475.5.nupkg.sha512",
+    "C:\\Users\\rlewi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\rlewi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\rlewi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\rlewi\\.nuget\\packages\\tobii.interaction\\0.7.3\\tobii.interaction.0.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}

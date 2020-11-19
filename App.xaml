@@ -1,0 +1,35 @@
+﻿<Application x:Class="GazeHelpServer.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:GazeHelpServer"
+             xmlns:adonisUi="clr-namespace:AdonisUI;assembly=AdonisUI"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/AdonisUI;component/ColorSchemes/Dark.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/AdonisUI.ClassicTheme;component/Resources.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <SolidColorBrush x:Key="msgBackground" />
+            <SolidColorBrush x:Key="msgBorder" />
+            <SolidColorBrush x:Key="advToastBackground" />
+            <SolidColorBrush x:Key="advToastBorder" />
+
+            <!-- Override colours -->
+            <Color x:Key="{x:Static adonisUi:Colors.Layer0BackgroundColor}">#424242</Color>
+            <Color x:Key="{x:Static adonisUi:Colors.Layer0BorderColor}">#383838</Color>
+            <Color x:Key="{x:Static adonisUi:Colors.Layer1BackgroundColor}">#535353</Color>
+            <Color x:Key="{x:Static adonisUi:Colors.Layer1BorderColor}">#444444</Color>
+            <Color x:Key="{x:Static adonisUi:Colors.Layer1HighlightColor}">#535353</Color>
+            <Color x:Key="{x:Static adonisUi:Colors.Layer1IntenseHighlightColor}">#6F6F6F</Color>
+            <Color x:Key="{x:Static adonisUi:Colors.Layer1IntenseHighlightBorderColor}">#888888</Color>
+            <Color x:Key="{x:Static adonisUi:Colors.Layer2BackgroundColor}">#6B6B6B</Color>
+            <Color x:Key="{x:Static adonisUi:Colors.Layer2BorderColor}">#444444</Color>
+            <Color x:Key="{x:Static adonisUi:Colors.Layer2HighlightColor}">#6B6B6B</Color>
+            <Color x:Key="{x:Static adonisUi:Colors.Layer2IntenseHighlightColor}">#6F6F6F</Color>
+            <Color x:Key="{x:Static adonisUi:Colors.Layer2IntenseHighlightBorderColor}">#888888</Color>
+            <Color x:Key="{x:Static adonisUi:Colors.AccentColor}">#777777</Color>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

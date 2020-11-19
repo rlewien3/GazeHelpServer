@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rlewi\\Documents\\GitHub\\GazeHelpServer\\GazeHelpServer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rlewi\\Documents\\GitHub\\GazeHelpServer\\GazeHelpServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rlewi\\Documents\\GitHub\\GazeHelpServer\\GazeHelpServer.csproj",
+        "projectName": "GazeHelpServer",
+        "projectPath": "C:\\Users\\rlewi\\Documents\\GitHub\\GazeHelpServer\\GazeHelpServer.csproj",
+        "packagesPath": "C:\\Users\\rlewi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rlewi\\Documents\\GitHub\\GazeHelpServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\rlewi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\rlewi\\Downloads": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net471": {
+          "dependencies": {
+            "AdonisUI": {
+              "target": "Package",
+              "version": "[1.16.0, )"
+            },
+            "AdonisUI.ClassicTheme": {
+              "target": "Package",
+              "version": "[1.16.0, )"
+            },
+            "Fleck": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Collections.Immutable": {
+              "target": "Package",
+              "version": "[5.0.0-rc.2.20475.5, )"
+            },
+            "Tobii.Interaction": {
+              "target": "Package",
+              "version": "[0.7.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
